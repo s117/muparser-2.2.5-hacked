@@ -21,6 +21,11 @@
 History:
 --------
 
+S117 Hack:
+----------
+Add extern variable query callback support.
+Defined a C-Like expression system.
+
 Rev 2.2.5: 27.04.2015
 ---------------------
   Changes:
